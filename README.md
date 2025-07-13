@@ -26,3 +26,6 @@ Starts from anywhere in the DOM using //. More flexible and preferred.
 ```xpaths
 Absolute : /html/body/div[1]/form/input[1]
 Relative : //input[@id='username']
+
+
+** Note ** - Refer xpaths_syntax.md for Detailed Explainations!
